@@ -1,1 +1,1 @@
-# OpenChat is a !CLOSED SOURCE! chat and you found the files of it!
+# OpenChat is a OPEN SOURCE chat and you found the files of it!
